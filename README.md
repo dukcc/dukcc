@@ -1,4 +1,4 @@
-[Profile Banner](github banner.png)
+![Profile Banner](github banner.png)
 
 # 👋 Hello! I am dukc.
 
