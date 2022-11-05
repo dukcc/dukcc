@@ -11,4 +11,4 @@ I am learning JavaScript.
 I like experimenting with things too.
 
 
-I make tutorials, and post designs, and gaming videos on my [YouTube channel](https://www.youtube.com/@dukc0)
+I make tutorials, post designs, and gaming videos on my [YouTube channel](https://www.youtube.com/@dukc0)
