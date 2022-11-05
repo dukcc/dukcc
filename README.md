@@ -1,4 +1,4 @@
-![Profile Banner](github banner.png)
+![Profile Banner](https://i.imgur.com/5iNuFyj.png)
 
 # 👋 Hello! I am dukc.
 
