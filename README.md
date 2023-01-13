@@ -12,5 +12,5 @@ I like experimenting with things too.
 
 I am a content creator on youtube: @dukc01 @dukc02
 
-This is my personal github, where I will have personal projects.
-All projects under my organization DuckyHQ, will be under the github org named DuckyHQ.
+This is my personal github, where I will have personal projects.<br></br>
+All my serious projects will be under the github organization named [DuckyHQ](https://github.com/duckyhq1).
