@@ -10,5 +10,7 @@ I am learning JavaScript.
 
 I like experimenting with things too.
 
+I am a content creator on youtube: @dukc01 @dukc02
 
-I make tutorials, post designs, and gaming videos on my [YouTube channel](https://www.youtube.com/@dukc0)
+This is my personal github, where I will have personal projects.
+All projects under my organization DuckyHQ, will be under the github org named DuckyHQ.
