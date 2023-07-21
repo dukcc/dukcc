@@ -1,13 +1,11 @@
-![Profile Banner](https://i.imgur.com/ziEw42u.png)
+![Profile banner](https://i.imgur.com/NjCOtt5.png)
+### Hello! 👋
+I am a front-end web developer specializing in Nuxt.js, Next.js, and Electron.
 
-# 👋 Hello! I am dukc.
+I also like experimenting with other software, such as Python, Discord.js, Minecraft plugins/mods (java), and others.
 
-I am a beginner front-end web developer.
-
-I am an expert at UI design, and Tailwind/CSS.
-
-I like experimenting with things too. Such as python stuff, discord bots, minecraft java plugins/mods, and more.
-
-I am a content creator on youtube: @dukc0
-
-[Website](https://www.duckyhq.com)
+#### Projects
+I am currently building a few projects.
+- HQLauncher - A Minecraft launcher with several features and simple/beautiful UI.
+- HQLauncher Web - Website for HQL, with news section that will also show on the launcher.
+- Portfolio - DuckyHQ website, with special effects and UI.
