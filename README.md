@@ -9,4 +9,4 @@ I am currently building a few projects.
 - HQLauncher - A Minecraft launcher with several features and simple/beautiful UI.
 - HQLauncher Web - Website for HQL, with news section that will also show on the launcher.
 
-Visit my new [website](www.duckyhq.com)
+Visit my new [website](https://www.duckyhq.com)
