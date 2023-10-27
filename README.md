@@ -2,7 +2,7 @@
 ### Hello! 👋
 I am a front-end web developer specializing in Nuxt.js, Next.js, and Electron.
 
-I also like experimenting with other software, such as Python, Discord.js, Minecraft plugins/mods (java), and others.
+I also like experimenting with other software, such as Python, Discord.js, Minecraft plugins/mods (java), etc.
 
 #### Projects
 I am currently building a few projects.
