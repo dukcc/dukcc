@@ -8,4 +8,4 @@ I am currently learning Rust.
 
 I also like experimenting with other stuff, such as Python, Discord.js, making Minecraft plugins/mods, etc.
 
-[Website](https://www.duckyhq.com)
+[Website](https://www.dukc.dev)
