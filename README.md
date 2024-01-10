@@ -12,7 +12,7 @@ Discord - dukkcc | Email - hello@dukc.dev
 <details>
 <summary>Setup</summary>
 <br>
-Dual booted PC with Windows 11 and Ubuntu
+Dual booted PC with Windows 11 and Fedora
 
 MSI B450 TOMAHAWK MAX lI
 
