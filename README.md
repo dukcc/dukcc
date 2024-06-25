@@ -1,32 +1,16 @@
-![Profile banner](https://i.imgur.com/NjCOtt5.png)
-### Hello! 👋
+![Profile banner](/banner.png)
+## dukc
 
-I am a front-end web developer that specializes in React.
+Hello! I am a web developer, UI designer, and graphic designer.
 
-I am also a UI designer, and I can easily apply my designs to my code with Tailwind.
+I specialize in front-end, mainly Astro and React. I use Tailwind, GSAP, and Framer Motion.
 
-I am trying to learn Rust, and I like experimenting with other software such as Python, Discord.js Minecraft Java mods/plugins, etc.
+I also like to experiment with other technologies, such as operating system architecture, Rust, bot development, and app development.
 
-Discord - dukkcc | Email - hello@dukc.dev
+I always use Figma to create a website/app design first, then I code it.
 
 <details>
 <summary>Setup</summary>
 <br>
-Dual booted PC with Windows 11 and Fedora
-
-MSI B450 TOMAHAWK MAX lI
-
-
-AMD Ryzen 7 3700x
-
-32 GB RAM
-
-RTX 3060
-
-─────────
-
+Arch Linux, MSI B450 TOMAHAWK MAX lI, AMD Ryzen 7 3700x, 32GB RAM, Nvidia RTX 3060
 </details>
-
-[Personal Website](https://www.dukc.dev)
-
-[DuckyHQ](https://www.duckyhq.com) - [DuckyHQ GitHub](https://github.com/DuckyHQ0)
