@@ -1,13 +1,14 @@
 ![Profile banner](/banner.png)
-## dukc
 
-Hello! I am a web developer, UI designer, and graphic designer.
+Hello! I am a web developer and creative designer.
 
-I specialize in front-end, mainly Astro and React. I use Tailwind, GSAP, and Framer Motion.
+I specialize in front-end, mainly Astro and React. I love Tailwind. I like experienting with other UI frameworks too.
 
-I also like to experiment with other technologies, such as operating system architecture, Rust, bot development, and app development.
+I also like to experiment with other technologies, such as operating system architecture, bot development, and app development.
 
-I always use Figma to create a website/app design first, then I code it.
+I am learning Rust.
+
+I have too many ideas and too many projects.
 
 <details>
 <summary>Setup</summary>
