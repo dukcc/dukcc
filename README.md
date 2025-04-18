@@ -1,3 +1,3 @@
 ![Profile banner](/banner.png)
 
-I like making things with design, React, Astro, Tailwind, and Rust
+I like making things. like good products and apps and stuff. brought together by design.
