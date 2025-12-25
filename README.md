@@ -1,3 +1,5 @@
-![Profile banner](/banner.png)
+[jcbdkc]
 
-I like making things. like good products and apps and stuff. brought together by design.
+creative designer & developer
+
+react, svelte, astro, tailwind, 
