@@ -1,4 +1,4 @@
-![jcbdkc](/profilebanner.png)
+![jcbdkc](/newbanner.png)
 
 creative designer & developer
 
